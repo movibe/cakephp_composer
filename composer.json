@@ -11,7 +11,8 @@
     "minimum-stability": "stable",
     "require": {
         "pear-cakephp/cakephp": ">=2.4.0",
-        "cakephp/debug_kit": "2.2.*"
+        "cakephp/debug_kit": "2.2.*",
+        "slywalker/boost_cake": "*"
     },
     "repositories": [
         {
