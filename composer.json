@@ -1,9 +1,6 @@
 {
     "name": "movibe/cake3",
     "description": "Composer + cakephp",
-    "require": {
-        "cakephp/cakephp": "*"
-    },
     "license": "none",
     "authors": [
         {
