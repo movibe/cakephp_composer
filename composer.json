@@ -1,0 +1,15 @@
+{
+    "name": "movibe/cake3",
+    "description": "Composer + cakephp",
+    "require": {
+        "cakephp/cakephp": "*"
+    },
+    "license": "none",
+    "authors": [
+        {
+            "name": "Willian Ribeiro Angelo",
+            "email": "agfoccus@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
