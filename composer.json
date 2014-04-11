@@ -11,5 +11,8 @@
             "email": "agfoccus@gmail.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "config": {
+    "vendor-dir": "Vendor"
+}
 }
